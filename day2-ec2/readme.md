@@ -1,4 +1,4 @@
-# AWS Day 2 – EC2 Virtual Server
+AWS Day 2 – EC2 Virtual Server
 
 ## Goal
 Launch an EC2 instance, SSH into it, install nginx, and access it via public IP.
